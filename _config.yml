@@ -42,4 +42,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
