@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: CV
+navigation_weight: 2
 ---
 # CV
 
